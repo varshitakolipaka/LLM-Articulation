@@ -75,5 +75,5 @@ d. both a and b
 e. both a and c
 
 
-Reply format: EITHER "A" or "B" or "C"
+Reply format: EITHER "A" or "B" or "C" or "D" or "E"
 """
