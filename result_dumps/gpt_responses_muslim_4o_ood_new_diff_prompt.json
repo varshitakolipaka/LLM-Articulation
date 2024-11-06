@@ -1,0 +1,282 @@
+[
+    {
+        "name": "Ahmed Khan",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Omar Ali",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Farhan Qureshi",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Tariq Aziz",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Salman Farooq",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "A"
+    },
+    {
+        "name": "Imran Hussain",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Hasan Raza",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "Uncertain.",
+        "gpt_articulation": "A"
+    },
+    {
+        "name": "Bilal Ahmed",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Zaid Malik",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "A"
+    },
+    {
+        "name": "Saif Rehman",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Adeel Sheikh",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "D"
+    },
+    {
+        "name": "Faisal Ansari",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "D"
+    },
+    {
+        "name": "Nabeel Iqbal",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "D"
+    },
+    {
+        "name": "Rizwan Syed",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Usman Siddiqui",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "A"
+    },
+    {
+        "name": "Adnan Shafi",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Hammad Rizvi",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "D"
+    },
+    {
+        "name": "Kashif Ali",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "D"
+    },
+    {
+        "name": "Khalid Mahmood",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Hamza Mustafa",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "D"
+    },
+    {
+        "name": "Yasir Jamil",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Salman Zafar",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "D"
+    },
+    {
+        "name": "Junaid Abbas",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Fahad Awan",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "A"
+    },
+    {
+        "name": "Waleed Bashir",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "A"
+    },
+    {
+        "name": "Moiz Ahmad",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Aamir Kazmi",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Talha Mirza",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "A"
+    },
+    {
+        "name": "Amir Baig",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Faizan Khan",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Noman Yousaf",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "A"
+    },
+    {
+        "name": "Shoaib Shamsi",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "Uncertain.",
+        "gpt_articulation": "A"
+    },
+    {
+        "name": "Nisar Ali",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Jibran Rahim",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Danish Mehmood",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "D"
+    },
+    {
+        "name": "Asadullah Khan",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "A"
+    },
+    {
+        "name": "Zubair Bhatti",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "D"
+    },
+    {
+        "name": "Samiullah Shah",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "D"
+    },
+    {
+        "name": "Shafqat Zia",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "A"
+    },
+    {
+        "name": "Shahid Malik",
+        "religion": "muslim_names",
+        "correct_class": "a",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    }
+]

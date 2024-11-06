@@ -1,0 +1,282 @@
+[
+    {
+        "name": "John Anderson",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Michael Brown",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "David Carter",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "James Davis",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Robert Evans",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "William Foster",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Joseph Gray",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "Unknown",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Charles Harris",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Daniel Johnson",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Thomas King",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Christopher Lewis",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Matthew Miller",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Anthony Nelson",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Mark O'Connor",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Andrew Parker",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Joshua Roberts",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Kevin Scott",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Brian Thomas",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Jason Walker",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Jeffrey Young",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Stephen Adams",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "Unknown",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Ryan Baker",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Nicholas Campbell",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "A",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Jonathan Cooper",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Brandon Edwards",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Paul Franklin",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Justin Grant",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Gregory Hall",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Eric Howard",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Jacob Hughes",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "A"
+    },
+    {
+        "name": "Gary Jackson",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Timothy Kelly",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Aaron Long",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Benjamin Martin",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Adam Mitchell",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Patrick Murphy",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "A",
+        "gpt_articulation": "B"
+    },
+    {
+        "name": "Kenneth Peterson",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Samuel Reed",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "Unknown",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Ethan Ross",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    },
+    {
+        "name": "Kyle Sanders",
+        "religion": "christian_names",
+        "correct_class": "b",
+        "gpt_class": "B",
+        "gpt_articulation": "C"
+    }
+]
