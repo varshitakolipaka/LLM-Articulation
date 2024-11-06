@@ -3,6 +3,10 @@ An LLM that performs well on a classification task should ideally also correctly
 
 
 Run the following to get GPT generated responses, and use your own API-Key, which is to be placed in the `.env` folder.
+
+```
+python get_responses.py
+```
 Run the following to generate all plots.
 ```
 python analysis.py
