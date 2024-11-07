@@ -12,3 +12,5 @@ Run the following to generate all plots.
 python analysis.py
 ```
 
+The report summarising the findings can be viewed at `REPORT.pdf`.
+
